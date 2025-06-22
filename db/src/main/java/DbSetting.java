@@ -1,5 +1,3 @@
-package db;
-
 public class DbSetting {
     private String name;
     private String password;
